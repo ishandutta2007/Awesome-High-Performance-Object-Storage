@@ -60,7 +60,7 @@ Welcome to the ultimate curated directory of **high-performance object storage p
 
 - **Amazon S3 Express One Zone** is the **fastest cloud object storage**, delivering **single-digit millisecond latency** and **up to 10x faster performance** than S3 Standard — designed for **AI/ML training and latency-sensitive analytics**.
 
-- **MinIO** is the **leading open-source object storage**, with **45K+ GitHub stars**, **S3 compatibility**, and **erasure coding, bit-rot protection, and encryption** — used by **70% of the Fortune 100**.
+- **MinIO** is the **leading open-source object storage**, with **45K+ GitHub_Stars**, **S3 compatibility**, and **erasure coding, bit-rot protection, and encryption** — used by **70% of the Fortune 100**.
 
 - **Ceph** powers the **majority of OpenStack deployments** with **RADOS Gateway S3 compatibility** and **exabyte-scale scalability**.
 
@@ -131,49 +131,49 @@ The high-performance object storage market spans **hyperscaler object storage se
 
 
 - **[MinIO](https://github.com/minio/minio)** [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
-  **High-performance S3-compatible object storage**, AGPL-3.0 licensed. **45K+ GitHub stars** — **the leading open-source object storage**. Erasure coding, bit-rot protection, and multi-tenant security. Used by 70% of Fortune 100 enterprises. 🎯
+  **High-performance S3-compatible object storage**, AGPL-3.0 licensed. **45K+ GitHub_Stars** — **the leading open-source object storage**. Erasure coding, bit-rot protection, and multi-tenant security. Used by 70% of Fortune 100 enterprises. 🎯
 
 - **[JuiceFS](https://github.com/juicedata/juicefs)** [![Stars](https://img.shields.io/github/stars/juicedata/juicefs?style=social&color=white)](https://github.com/juicedata/juicefs/stargazers)  
-  **POSIX file system built on top of Redis and S3**, Apache-2.0 licensed. **14.5K+ GitHub stars** — **high-performance distributed file system & object storage engine** designed for cloud-native AI/ML and analytics data lakes. 🧃
+  **POSIX file system built on top of Redis and S3**, Apache-2.0 licensed. **14.5K+ GitHub_Stars** — **high-performance distributed file system & object storage engine** designed for cloud-native AI/ML and analytics data lakes. 🧃
 
 - **[Ceph](https://github.com/ceph/ceph)** [![Stars](https://img.shields.io/github/stars/ceph/ceph?style=social&color=white)](https://github.com/ceph/ceph/stargazers)  
-  **Unified distributed storage system**, LGPL-2.1 / GPL-2.0 / BSD-3-Clause licensed. **14K+ GitHub stars** — **RADOS Gateway provides S3-compatible object storage**. Dominant open-source storage platform for cloud infrastructure and Kubernetes. 🐙
+  **Unified distributed storage system**, LGPL-2.1 / GPL-2.0 / BSD-3-Clause licensed. **14K+ GitHub_Stars** — **RADOS Gateway provides S3-compatible object storage**. Dominant open-source storage platform for cloud infrastructure and Kubernetes. 🐙
 
 - **[SeaweedFS](https://github.com/seaweedfs/seaweedfs)** [![Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=social&color=white)](https://github.com/seaweedfs/seaweedfs/stargazers)  
-  **Fast distributed storage system for blobs, objects, files, and data lakes**, Apache-2.0 licensed. **13K+ GitHub stars** — **O(1) disk read latency for billions of small files**, S3 API compatibility, and automated cloud tiering. 🌿
+  **Fast distributed storage system for blobs, objects, files, and data lakes**, Apache-2.0 licensed. **13K+ GitHub_Stars** — **O(1) disk read latency for billions of small files**, S3 API compatibility, and automated cloud tiering. 🌿
 
 - **[OpenZFS](https://github.com/openzfs/zfs)** [![Stars](https://img.shields.io/github/stars/openzfs/zfs?style=social&color=white)](https://github.com/openzfs/zfs/stargazers)  
-  **Advanced file system and volume manager**, CDDL-1.0 licensed. **11K+ GitHub stars** — enterprise-grade end-to-end data integrity checksums, copy-on-write snapshots, and native replication. 🗄️
+  **Advanced file system and volume manager**, CDDL-1.0 licensed. **11K+ GitHub_Stars** — enterprise-grade end-to-end data integrity checksums, copy-on-write snapshots, and native replication. 🗄️
 
 - **[Rook](https://github.com/rook/rook)** [![Stars](https://img.shields.io/github/stars/rook/rook?style=social&color=white)](https://github.com/rook/rook/stargazers)  
-  **Storage orchestrator for Kubernetes**, Apache-2.0 licensed. **11K+ GitHub stars** — **CNCF graduated project** that automates deployment and management of Ceph S3 object storage on Kubernetes clusters. 🎛️
+  **Storage orchestrator for Kubernetes**, Apache-2.0 licensed. **11K+ GitHub_Stars** — **CNCF graduated project** that automates deployment and management of Ceph S3 object storage on Kubernetes clusters. 🎛️
 
 - **[CubeFS](https://github.com/cubefs/cubefs)** [![Stars](https://img.shields.io/github/stars/cubefs/cubefs?style=social&color=white)](https://github.com/cubefs/cubefs/stargazers)  
-  **CNCF cloud-native distributed storage system**, Apache-2.0 licensed. **5.7K+ GitHub stars** — supports multi-tenant S3-compatible object storage and POSIX parallel filesystem for AI/ML training. 🧊
+  **CNCF cloud-native distributed storage system**, Apache-2.0 licensed. **5.7K+ GitHub_Stars** — supports multi-tenant S3-compatible object storage and POSIX parallel filesystem for AI/ML training. 🧊
 
 - **[Garage](https://github.com/deuxfleurs/garage)** [![Stars](https://img.shields.io/github/stars/deuxfleurs/garage?style=social&color=white)](https://github.com/deuxfleurs/garage/stargazers)  
-  **S3-compatible distributed object store for self-hosted deployments**, AGPL-3.0 licensed. **4.5K+ GitHub stars** — **lightweight, geo-distributed**, written in Rust for small to medium-scale deployments and multi-datacenter resilience. 🚗
+  **S3-compatible distributed object store for self-hosted deployments**, AGPL-3.0 licensed. **4.5K+ GitHub_Stars** — **lightweight, geo-distributed**, written in Rust for small to medium-scale deployments and multi-datacenter resilience. 🚗
 
 - **[OpenStack Swift](https://github.com/openstack/swift)** [![Stars](https://img.shields.io/github/stars/openstack/swift?style=social&color=white)](https://github.com/openstack/swift/stargazers)  
-  **Distributed object storage**, Apache-2.0 licensed. **2.5K+ GitHub stars** — the original open-source scale-out object storage powering OpenStack infrastructure and public cloud environments. 🏛️
+  **Distributed object storage**, Apache-2.0 licensed. **2.5K+ GitHub_Stars** — the original open-source scale-out object storage powering OpenStack infrastructure and public cloud environments. 🏛️
 
 - **[Zenko](https://github.com/scality/Zenko)** [![Stars](https://img.shields.io/github/stars/scality/Zenko?style=social&color=white)](https://github.com/scality/Zenko/stargazers)  
-  **Multi-cloud data controller**, Apache-2.0 licensed. **1.5K+ GitHub stars** — provides a unified S3 API interface across hybrid clouds, enabling multi-cloud metadata search and cross-region replication. 🔄
+  **Multi-cloud data controller**, Apache-2.0 licensed. **1.5K+ GitHub_Stars** — provides a unified S3 API interface across hybrid clouds, enabling multi-cloud metadata search and cross-region replication. 🔄
 
 - **[LizardFS](https://github.com/lizardfs/lizardfs)** [![Stars](https://img.shields.io/github/stars/lizardfs/lizardfs?style=social&color=white)](https://github.com/lizardfs/lizardfs/stargazers)  
-  **Open-source distributed file system with object storage support**, GPL-3.0 licensed. **1.4K+ GitHub stars** — software-defined distributed storage engine with POSIX interface and chunk-based replication. 🦎
+  **Open-source distributed file system with object storage support**, GPL-3.0 licensed. **1.4K+ GitHub_Stars** — software-defined distributed storage engine with POSIX interface and chunk-based replication. 🦎
 
 - **[MooseFS](https://github.com/moosefs/moosefs)** [![Stars](https://img.shields.io/github/stars/moosefs/moosefs?style=social&color=white)](https://github.com/moosefs/moosefs/stargazers)  
-  **Petabyte-scale distributed file system**, GPL-3.0 licensed. **1.2K+ GitHub stars** — fault-tolerant, highly performing network storage with dynamic scale-out capability. 📦
+  **Petabyte-scale distributed file system**, GPL-3.0 licensed. **1.2K+ GitHub_Stars** — fault-tolerant, highly performing network storage with dynamic scale-out capability. 📦
 
 - **[DAOS](https://github.com/daos-stack/daos)** [![Stars](https://img.shields.io/github/stars/daos-stack/daos?style=social&color=white)](https://github.com/daos-stack/daos/stargazers)  
-  **Exascale-class distributed storage stack**, Apache-2.0 licensed. **1.1K+ GitHub stars** — Intel-led high-throughput key-value object store designed for NVMe and NVDIMM hardware in HPC & AI platforms. 🔬
+  **Exascale-class distributed storage stack**, Apache-2.0 licensed. **1.1K+ GitHub_Stars** — Intel-led high-throughput key-value object store designed for NVMe and NVDIMM hardware in HPC & AI platforms. 🔬
 
 - **[Apache Ozone](https://github.com/apache/ozone)** [![Stars](https://img.shields.io/github/stars/apache/ozone?style=social&color=white)](https://github.com/apache/ozone/stargazers)  
-  **Scalable, redundant, and distributed object store for Hadoop**, Apache-2.0 licensed. **1K+ GitHub stars** — top-level Apache project optimized for big data analytics and S3-compatible enterprise data lakes. ⚡
+  **Scalable, redundant, and distributed object store for Hadoop**, Apache-2.0 licensed. **1K+ GitHub_Stars** — top-level Apache project optimized for big data analytics and S3-compatible enterprise data lakes. ⚡
 
 - **[OpenIO](https://github.com/openio-sds/openio)** [![Stars](https://img.shields.io/github/stars/openio-sds/openio?style=social&color=white)](https://github.com/openio-sds/openio/stargazers)  
-  **Distributed object storage software**, AGPL-3.0 licensed. **600+ GitHub stars** — modular grid architecture adapting to heterogeneous storage hardware with S3 API compatibility. 🌐
+  **Distributed object storage software**, AGPL-3.0 licensed. **600+ GitHub_Stars** — modular grid architecture adapting to heterogeneous storage hardware with S3 API compatibility. 🌐
 
 
 
@@ -243,7 +243,7 @@ If you find this high-performance object storage repository useful, please consi
 
 - **Amazon S3 Express One Zone is the fastest cloud object storage** — **$0.16/GB-month** and **$0.0016/1,000 PUT requests** . **Cloudflare R2 charges $0.015/GB-month with zero egress fees** .
 
-- **MinIO is the leading open-source object storage** with **45K+ GitHub stars** and **used by 70% of the Fortune 100** . **Ceph provides RADOS Gateway S3 compatibility** and **powers the majority of OpenStack deployments** .
+- **MinIO is the leading open-source object storage** with **45K+ GitHub_Stars** and **used by 70% of the Fortune 100** . **Ceph provides RADOS Gateway S3 compatibility** and **powers the majority of OpenStack deployments** .
 
 - **Open-source object storage platforms are not turnkey** — they require **deployment, erasure coding configuration, and ongoing maintenance** . **MinIO requires distributed cluster setup for production** . **Ceph requires MON, OSD, and RGW daemons** . **Always validate performance, durability, and S3 compatibility with a proof-of-concept** before production deployment . ⚡
 
