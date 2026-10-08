@@ -1,32 +1,17 @@
 # Awesome-High-Performance-Object-Storage ⚡ 📦
 
-
-
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome High Performance Object Storage Banner" width="100%">
-
 </p>
-
-
 
 <p align="center">
-
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-High-Performance-Object-Storage"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-High-Performance-Object-Storage?style=social" alt="GitHub_Stars"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-High-Performance-Object-Storage/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-High-Performance-Object-Storage?style=social" alt="GitHub Forks"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-High-Performance-Object-Storage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-High-Performance-Object-Storage?color=blue" alt="License"/></a>
-
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
 </p>
-
-
 
 ---
 
@@ -73,17 +58,11 @@ Welcome to the ultimate curated directory of **high-performance object storage p
 ## 📑 Table of Contents
 
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
-
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
 - [📊 Star History](#-star-history)
-
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
-
 
 
 ---
@@ -100,11 +79,8 @@ Welcome to the ultimate curated directory of **high-performance object storage p
 The high-performance object storage market spans **hyperscaler object storage services** (Amazon S3 Express One Zone, Cloudflare R2) that provide **single-digit millisecond latency with S3 compatibility**, **all-flash object storage platforms** (VAST Data, Pure Storage FlashBlade, Weka.io) that offer **exabyte-scale performance for AI/ML workloads**, and **enterprise object storage platforms** (Scality RING, NetApp StorageGRID) that provide **multi-protocol support and compliance**.
 
 
-
 | SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
 | **[Amazon S3 Express One Zone](https://aws.amazon.com/s3/storage-classes/express-one-zone/)** ☁️ | Amazon | ~$2.0 Trillion | **$0.16/GB-month** (storage) + **$0.0016/1,000 PUT requests**  | **No free tier** (S3 Standard 5GB/mo free tier does not apply) | **AWS-native high-performance object storage** — **Single-digit millisecond latency** . **Up to 10x faster than S3 Standard** . **Designed for AI/ML training and latency-sensitive analytics** . **S3-compatible API** . |
 | **[Ceph Cloud Storage (Commercial)](https://ceph.io/)** 🐙 | Red Hat (IBM) | ~$200 Billion (IBM) | **$12,000/year** (Red Hat Enterprise Linux Server + Ceph Storage subscription per node) | **Ceph Open Source is 100% Free Forever** | **Enterprise Ceph distribution** — **S3-compatible RADOS Gateway** . **The most widely deployed open-source object storage** . |
 | **[Cloudflare R2](https://www.cloudflare.com/developer-platform/r2/)** 🟠 | Cloudflare Inc. | ~$30 Billion | **$0.015/GB-month** ($4.50/TB-month) with **$0 egress fees** | **10 GB storage, 1M Class A ops, 10M Class B ops/month free forever** | **Zero-egress object storage** — **S3-compatible with no egress fees** . **The most cost-effective cloud object storage** . |
@@ -117,17 +93,13 @@ The high-performance object storage market spans **hyperscaler object storage se
 | **[Storj DCS](https://www.storj.io/)** 🌐 | Storj | Private (~$100 Million) | **$0.004/GB-month** ($4/TB-month storage + $7/TB egress) | **25 GB storage & 25 GB bandwidth/month free forever** | **Decentralized cloud object storage** — **S3-compatible** . **Distributed across thousands of nodes** . **The most decentralized object storage** . |
 
 
-
 ---
-
 
 
 ## 🔓 Open-Source GitHub Projects
 
 
-
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
-
 
 
 - **[MinIO](https://github.com/minio/minio)** [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
@@ -180,56 +152,34 @@ The high-performance object storage market spans **hyperscaler object storage se
 ---
 
 
-
 ## 🛠️ How to Contribute
-
 
 
 Contributions are welcome! Follow these steps to submit new object storage platforms or open-source S3-compatible software:
 
 
-
 1. 🍴 **Fork** the repository.
-
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
 3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 
-
 ---
-
 
 
 ## 📊 Star History
 
-
-
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-High-Performance-Object-Storage&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-High-Performance-Object-Storage&type=date&legend=top-left)
-
-
 
 ---
 
-
-
 ## 🤝 Support & Sponsorship
-
-
 
 If you find this high-performance object storage repository useful, please consider supporting the project:
 
-
-
 - ⭐ **Star** this repository to increase visibility!
-
 - 🔀 **Fork** and share with fellow storage engineers, cloud architects, and open-source advocates.
-
 - ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
-
 
 ---
 
@@ -238,15 +188,10 @@ If you find this high-performance object storage repository useful, please consi
 ## ⚠️ Disclaimer
 
 
-
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
 - **Amazon S3 Express One Zone is the fastest cloud object storage** — **$0.16/GB-month** and **$0.0016/1,000 PUT requests** . **Cloudflare R2 charges $0.015/GB-month with zero egress fees** .
-
 - **MinIO is the leading open-source object storage** with **45K+ GitHub_Stars** and **used by 70% of the Fortune 100** . **Ceph provides RADOS Gateway S3 compatibility** and **powers the majority of OpenStack deployments** .
-
 - **Open-source object storage platforms are not turnkey** — they require **deployment, erasure coding configuration, and ongoing maintenance** . **MinIO requires distributed cluster setup for production** . **Ceph requires MON, OSD, and RGW daemons** . **Always validate performance, durability, and S3 compatibility with a proof-of-concept** before production deployment . ⚡
-
 
 
 ---
@@ -254,7 +199,5 @@ If you find this high-performance object storage repository useful, please consi
 
 
 <p align="center">
-
   <b>Made with ❤️ for storage engineers, cloud architects, and open-source object storage advocates.</b>
-
 </p>
